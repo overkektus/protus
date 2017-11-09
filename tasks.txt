@@ -1,0 +1,9 @@
+express + sequelize + авторизация(top 1 npm)
+
+1. структура бд
+2. роуты web api(from site's urls)
+3. поддержка сессии(коризна)
+4. mongo-session
+
+n-1. pm2
+n. админка
